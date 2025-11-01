@@ -19,7 +19,7 @@ This is a simple number guessing game where the computer randomly selects a numb
 - Display appropriate messages for each outcome.
 
 ### 🔢 **Inputs & Outputs**
-Input: A single integer (e.g., between 1 and 10). Output:
+Input: An integer (e.g., between 1 and 10). Output:
 - ✅ Correct Guess: “YES! You beat the matrix.”
 -  ❌ Incorrect Guess: Feedback such as “Too high,” “Too low,” or “Invalid input.”
 
