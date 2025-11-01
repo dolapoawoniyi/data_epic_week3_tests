@@ -1,13 +1,13 @@
 # PROJECT DETAILS
 
 ## PROJECT AUTHOR
-- *Author*: Awoniyi Dolapo
-- 
+- *Author*: ***Awoniyi Dolapo***
+  
 ## PROJECT TITLE
 🎯 **Guess the Number Game**
 
 ## PEER REVIEWER
-- *Peer Reviewer*: Ajala Timilehin
+- *Peer Reviewer*: ***Ajala Timilehin***
 
 ### 🧩 **Overview**
 This is a simple number guessing game where the computer randomly selects a number, and the user tries to guess it. If the user’s guess matches the computer’s number, they win otherwise, they are prompted to try again.
